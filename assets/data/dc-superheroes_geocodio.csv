@@ -1,0 +1,166 @@
+HeroName,Aliases,Alignment,Combat,Durability,EyeColor,FullName,Gender,HairColor,Height,Intelligence,Nicknames,Placeofbirth,Power,Publisher,Race,Category,SkinColor,Speed,Strength,Weight,Latitude,Longitude,Accuracy Score,Accuracy Type,Number,Street,City,State,County,Zip,Country
+Captain-Marvel-II,"Captain Marvel Jr., CM3",good,56,90,Blue,Frederick Christopher Freeman,male,Black,5'9 // 175 cm,75,Freddy,-,34,DC Comics,Human,Human,,27,81,165 lb // 74 kg,0,0,0,,,,,,,,
+Citizen-Steel,"Buckeye, Uncle Nate, Uncle Nathan",good,60,100,Green,Nathaniel Heywood,male,Red,6'0 // 183 cm,50,-,-,23,DC Comics,Human,Human,,33,95,378 lb // 170 kg,0,0,0,,,,,,,,
+Deadman,-,good,42,100,Blue,Boston Brand,male,Black,6'0 // 183 cm,50,-,-,100,DC Comics,Human,Human,,33,10,201 lb // 90 kg,0,0,0,,,,,,,,
+Firestorm,The Nuclear Man,good,42,56,Brown,Jason Rusch,male,Black,- // 0 cm,50,-,-,100,DC Comics,-,Unknown,,58,53,- lb // 0 kg,0,0,0,,,,,,,,
+Batman-II,Dick Grayson,good,100,28,Blue,Richard John Grayson,male,Black,5'10 // 178 cm,88,Dick,-,36,DC Comics,Human,Human,,33,11,175 lb // 79 kg,0,0,0,,,,,,,,
+Plastique,-,bad,42,28,Blue,Bette Sans Souci,female,Red,5'6 // 168 cm,50,-,-,60,DC Comics,-,Unknown,,23,10,123 lb // 55 kg,0,0,0,,,,,,,,
+Aquababy,-,good,14,14,Blue,"Arthur Curry, Jr.",male,Blond,- // 0 cm,10,-,-,37,DC Comics,-,Unknown,,12,16,- lb // 0 kg,0,0,0,,,,,,,,
+Atom-II,"The Mighty Mite, the Tiny Titan, the World's Smallest Hero",good,60,45,Brown,Raymond Palmer,male,Auburn,6'0 // 183 cm,88,Ray,-,40,DC Comics,Human,Human,,33,10,180 lb // 81 kg,0,0,0,,,,,,,,
+Heat-Wave,Rory Calhoun,bad,30,45,Blue,Mick Rory,male,No Hair,5'11 // 180 cm,38,-,-,27,DC Comics,Human,Human,,17,10,179 lb // 81 kg,0,0,0,,,,,,,,
+Batman,"Insider, Matches Malone",good,100,50,blue,Bruce Wayne,male,black,6'2 // 188 cm,100,"The Dark Knight, The Caped Crusader, The Worlds Greatest Detective, Matches Malone","Crest Hill, Bristol Township; Gotham County",47,DC Comics,Human,Human,,27,26,210 lb // 95 kg,43.402567,-90.092584,1,street_center,,Crest Dr,Hill Point,WI,Sauk County,53937,US
+Killer-Croc,-,bad,60,90,Red,Waylon Jones,male,No Hair,8'0 // 244 cm,19,-,-,53,DC Comics,Metahuman,Inhuman,Green,35,53,790 lb // 356 kg,0,0,0,,,,,,,,
+Siren,-,bad,60,60,Blue,Hila,female,Purple,5'9 // 175 cm,56,-,-,92,DC Comics,Atlantean,Alien,,79,62,160 lb // 72 kg,0,0,0,,,,,,,,
+Red-Tornado,"Ulthoon, Tornado Tyrant of Rann, Tornado Champion, Tornado Man Dreaming, ""Reddy""",good,40,60,Green,John Smith,male,No Hair,6'1 // 185 cm,75,-,-,100,DC Comics,Robot,Robot,,67,38,325 lb // 146 kg,0,0,0,,,,,,,,
+Superboy-Prime,Superman-Prime; Prime; Superboy; Clark Kent; Clarkie; Time Trapper,bad,85,100,Blue,Kal-El,male,Black / Blue,5'11 // 180 cm,94,-,Krypton (Earth-Prime),100,DC Comics,Kryptonian,Alien,,100,100,170 lb // 77 kg,38.799058,-88.322958,1,street_center,,Krypton,Ingraham,IL,Clay County,62434,US
+Batgirl-VI,"Steph, Robin, Marion Todd, Spoiler",good,80,28,Blue,Stephanie Brown,female,Blond,5'6 // 168 cm,75,-,-,22,DC Comics,-,Unknown,,23,10,135 lb // 61 kg,0,0,0,,,,,,,,
+Black-Manta,"Devil Ray, Scourge of the Seven Seas, Yellow Lantern",bad,85,60,Black,-,male,No Hair,6'2 // 188 cm,75,-,-,76,DC Comics,Human,Human,,50,28,205 lb // 92 kg,0,0,0,,,,,,,,
+Kid-Flash,Kid Lantern,good,30,42,Green,Wallace Rudolph West,male,Red,- // 0 cm,25,Wally,"Blue Valley, Nebraska",20,DC Comics,Human,Human,,92,4,- lb // 0 kg,41.342714,-96.344273,1,place,,,Valley,NE,Douglas County,68064,US
+Lightning-Lad,"Lightning Boy, Live Wire",good,42,28,Blue,Garth Ranzz,male,Red,5'1 // 155 cm,38,-,-,60,DC Comics,-,Unknown,,23,10,145 lb // 65 kg,0,0,0,,,,,,,,
+Man-Bat,Kirk Langstrom,neutral,30,70,Brown,Robert Kirkland Langstrom,male,Brown,- // 0 cm,38,-,"Chicago, Illinois",33,DC Comics,Human,Human,,50,18,- lb // 0 kg,41.88531,-87.62213,1,place,,,Chicago,IL,Cook County,60601,US
+Doctor-Fate,Nabu,good,50,80,Blue,Kent Nelson,male,Blond,6'2 // 188 cm,81,-,-,100,DC Comics,Human,Human,,25,16,197 lb // 89 kg,0,0,0,,,,,,,,
+Zoom,-,bad,28,28,Red,Hunter Zolomon,male,Brown,6'1 // 185 cm,50,-,-,100,DC Comics,-,Unknown,,100,10,181 lb // 81 kg,0,0,0,,,,,,,,
+Plastic-Man,-,good,56,100,Blue,Patrick O'Brian,male,Black,6'1 // 185 cm,50,Eel,-,100,DC Comics,Human,Human,,23,63,178 lb // 80 kg,0,0,0,,,,,,,,
+King-Shark,-,bad,40,90,Black,-,male,No Hair,- // 0 cm,50,-,-,86,DC Comics,Animal,Alien,,50,88,- lb // 0 kg,0,0,0,,,,,,,,
+Lightning-Lord,-,bad,42,42,Blue,Mekt Ranzz,male,Red,6'3 // 191 cm,44,-,-,66,DC Comics,-,Unknown,,23,10,210 lb // 95 kg,0,0,0,,,,,,,,
+Flash-IV,"Impulse, Kid Flash II",good,48,32,Yellow,Bartholomew Allen II,male,Auburn,5'2 // 157 cm,63,Bart Allen,-,100,DC Comics,Human,Human,,100,10,115 lb // 52 kg,0,0,0,,,,,,,,
+Supergirl,"Linda Lang, Kara-El, Kara Kent, Flamebird, Trinity Child, Teen of Tomorrow, The Girl of Steel, The Maid of Might, The Princess of Power, Mighty Maid, Claire Connors, Bluebird",good,75,100,Blue,Kara Zor-El,female,Blond,5'5 // 165 cm,94,-,"Argo City, Krypton",100,DC Comics,Kryptonian,Alien,,100,100,120 lb // 54 kg,37.3112,-83.33935,1,place,,,Krypton,KY,Perry County,41754,US
+Black-Canary,Dinah Laurel Lance Queen; Dinah Laurel Lance-Windrow,good,80,20,Blue,Dinah Laurel Lance,female,Blond,5'7 // 170 cm,63,Pretty Bird,-,52,DC Comics,Metahuman,Inhuman,,33,8,130 lb // 59 kg,0,0,0,,,,,,,,
+Atom-Girl,Shrinking Violet,good,42,28,Black,Salu Digby,female,Black,5'6 // 168 cm,38,-,-,38,DC Comics,-,Unknown,,23,10,120 lb // 54 kg,0,0,0,,,,,,,,
+Chameleon,"Dr. Ashley Kafka, Dr. Turner, J. Jonah Jameson, Torpedo, Rick Jones, Dr. Henry Pym, Peter Parker, Captain George Stacy, Dr. Robert Bruce Banner, General",bad,28,28,-,Dmitri Anatoly Smerdyakov Kravinoff,male,-,- // 0 cm,88,-,Russia,28,DC Comics,-,Unknown,,12,10,- lb // 0 kg,40.23449,-84.40939,1,place,,,Russia,OH,Shelby County,45363,US
+Blue-Beetle-III,Scooter,good,30,80,Brown,Jaime Reyes,male,Black,- // 0 cm,50,Posse; Teen Titans,Presumed to be El Paso,100,DC Comics,Human,Human,,58,34,- lb // 0 kg,31.763608,-106.484592,1,place,,,El Paso,TX,El Paso County,79901,US
+Maxima,"Queen Maxima, Empress of the Almeracian Empire",bad,75,56,Brown,-,female,Red,5'11 // 180 cm,75,-,Almerac,81,DC Comics,-,Unknown,,35,90,160 lb // 72 kg,0,0,0,,,,,,,,
+Steel,"Man of Steel, Henry Johnson",good,64,90,Brown,John Henry Irons,male,No Hair,6'7 // 201 cm,81,-,"Washington, D.C.",64,DC Comics,-,Unknown,,53,82,290 lb // 131 kg,38.911936,-77.016719,1,place,,,Washington,DC,District of Columbia,20001,US
+Raven,"Pride, Dark Raven",neutral,40,70,Indigo,Rachel Roth,female,Black,5'5 // 165 cm,50,-,Azarath,84,DC Comics,Human,Human,,29,10,110 lb // 50 kg,0,0,0,,,,,,,,
+Lex-Luthor,-,bad,28,14,Green,Alexander 'Lex' Joseph Luthor,male,No Hair,6'2' // 188 cm,100,-,-,10,DC Comics,-,Unknown,,12,10,210 lb // 95 kg,0,0,0,,,,,,,,
+Speedy,"Thea Merlyn, Mia, Red Arrow",good,70,20,Green,Thea Dearden Queen,female,Brown,- // 0 cm,50,-,Starling City,26,DC Comics,Human,Human,,33,6,- lb // 0 kg,42.564395,-83.068475,0.67,place,,,Sterling Heights,MI,Macomb County,48310,US
+Black-Canary,-,good,80,15,Blue,Dinah Drake Lance,female,Blond,5'5 // 165 cm,63,-,-,45,DC Comics,Human,Human,,33,8,128 lb // 58 kg,0,0,0,,,,,,,,
+Etrigan,Demon,neutral,50,100,Red,Jason Blood,male,No Hair,6'4 // 193 cm,50,-,Hell,100,DC Comics,Demon,God,Yellow,17,85,452 lb // 203 kg,0,0,0,,,,,,,,
+Martian-Manhunter,"ohn Jones; J'Onn J'Onzz (alternate spelling); Big Green Buddy; J.J.; Jolly Green Giant; Light to the Light; Manhunter; Manhunter from Mars; Son of Mars; Bronze Wraith, Bloodwynd, many others",good,85,100,Red,J'onn J'onzz,male,No Hair,6'7 // 201 cm,100,-,-,100,DC Comics,Martian,Mutant,Green,92,95,300 lb // 135 kg,0,0,0,,,,,,,,
+Sinestro,Green Lantern,bad,56,64,Black,Thaal Sinestro,male,Black,6'7 // 201 cm,75,-,"Korugar City, Korugar",100,DC Comics,-,Unknown,,53,80,205 lb // 92 kg,27.92224,-97.28999,0.67,place,,,Gregory,TX,San Patricio County,78359,US
+Spectre,"Spirit of Vengeance, Wrath of God, Spirit of Redemption, Raguel, James Corrigan, Hal Jordan, Cripus Allen",good,70,100,White,-,male,No Hair,- // 0 cm,88,-,-,100,DC Comics,God / Eternal,God,White,100,100,- lb // 0 kg,0,0,0,,,,,,,,
+Flash-II,"The Scarlet Speedster, the Fastest Man Alive, the Monarch of Motion, the Sultan of Speed",good,60,60,Blue,Bartholomew Henry Allen,male,Blond,6'0 // 183 cm,75,-,"Fallville, Iowa",100,DC Comics,Human,Human,,100,10,195 lb // 88 kg,0,0,0,,,,,,,,
+Ben-10,Ben Ten,good,40,10,-,Benjamin Kirby Tennyson,male,-,- // 0 cm,10,-,-,90,DC Comics,-,Unknown,,8,7,- lb // 0 kg,0,0,0,,,,,,,,
+Batwoman-V,-,good,80,25,Green,Katherine Rebecca Kane,female,Red,5'10 // 178 cm,81,Kate,-,27,DC Comics,Human,Human,,29,8,- lb // 0 kg,0,0,0,,,,,,,,
+Hal-Jordan,"Parallax, Spectre, Green Lantern",good,60,64,Brown,Harold Jordan,male,Brown,6'2 // 188 cm,63,-,"Coast City, California",100,DC Comics,Human,Human,,53,90,200 lb // 90 kg,34.839964,-115.967051,0.67,place,,,Guasti,CA,San Bernardino County,91743,US
+Catwoman,"The Cat, Irena Dubrovna, Elva Barr, Sadie Kelowski, Madame Moderne, Marguerite Tone",good,85,28,Green,Selina Kyle,female,Black,5'9 // 175 cm,69,-,Gotham City,27,DC Comics,Human,Human,,33,11,135 lb // 61 kg,43.22332,-90.29151,1,place,,,Gotham,WI,Richland County,53540,US
+Doomsday,The Ultimate Lifeform,bad,90,100,Red,Doomsday,male,White,8'0 // 244 cm,75,-,Krypton,100,DC Comics,Alien,Alien,,67,100,915 lb // 412 kg,37.3112,-83.33935,1,place,,,Krypton,KY,Perry County,41754,US
+Dr-Manhattan,"Jon Osterman, Doctor Manhattan",good,42,100,White,Jonathan Osterman,male,No Hair,- // 0 cm,88,-,-,100,DC Comics,Human / Cosmic,Human,Blue,42,100,- lb // 0 kg,0,0,0,,,,,,,,
+Captain-Marvel,"The World's Mightiest Mortal, The Big Red Cheese, Captain Thunder, Shazam",good,56,95,Blue,William Joseph Batson,male,Black,6'4 // 193 cm,100,-,"Fawcett City, United States",100,DC Comics,Human,Human,,67,100,225 lb // 101 kg,33.19784,-117.248203,0.67,place,,,Vista,CA,San Diego County,92083,US
+Bizarro,-,neutral,85,100,Black,Bizarro,male,Black,6'3 // 191 cm,38,-,-,100,DC Comics,Bizarro,Mutant,White,100,95,345 lb // 155 kg,0,0,0,,,,,,,,
+Faora,Katie,bad,90,100,-,Faora Hu-Ul,female,-,- // 0 cm,88,-,-,94,DC Comics,Kryptonian,Alien,,75,95,- lb // 0 kg,0,0,0,,,,,,,,
+General-Zod,Dru-Zod (possible first name),bad,95,100,Black,Dru-Zod,male,Black,- // 0 cm,94,Zod,Krypton,100,DC Comics,Kryptonian,Alien,,96,100,- lb // 0 kg,37.3112,-83.33935,1,place,,,Krypton,KY,Perry County,41754,US
+Miss-Martian,"Megan Morse; M'Gann M'Orzz (alternate spelling); Martian Girlhunter; Martian Manhunter (Titans Tomorrow alias), Star-Spangled Kid",good,45,100,Red,M'gann M'orzz,female,Red,5'10 // 178 cm,63,-,Mars,100,DC Comics,-,Unknown,,58,85,135 lb // 61 kg,0,0,0,,,,,,,,
+Question,Vic Sage,good,80,35,Blue,Charles Victor Szasz,male,Blond,6'2 // 188 cm,81,Charlie,-,20,DC Comics,Human,Human,,27,14,185 lb // 83 kg,0,0,0,,,,,,,,
+Joker,"Red Hood I, Clown Prince of Crime, Harlequin of Hate, Jack Napier, Joe Kerr, Mr. J",bad,70,60,Green,Jack Napier,male,Green,6'5 // 196 cm,100,-,-,43,DC Comics,Human,Human,White,12,10,192 lb // 86 kg,0,0,0,,,,,,,,
+Sobek,Sobek the Talking Crocodile; The Unknown in Formless Time Before Time; Famine,good,56,46,White,Yurrd the Unknown,male,No Hair,- // 0 cm,50,-,Nile River; Bioengineered at Oolong Island,20,DC Comics,-,Unknown,,23,34,- lb // 0 kg,42.27179,-88.188464,0.67,place,,,Island Lake,IL,Lake County,60042,US
+Solomon-Grundy,Marshland Monster,bad,30,100,Black,Cyrus Gold,male,White,9'2 // 279 cm,9,-,Gotham City,92,DC Comics,Zombie,Mutant,,13,93,971 lb // 437 kg,43.22332,-90.29151,1,place,,,Gotham,WI,Richland County,53540,US
+Osiris,-,good,42,95,Brown,Amon Tomaz,male,Brown,- // 0 cm,75,-,-,65,DC Comics,-,Unknown,,60,85,- lb // 0 kg,0,0,0,,,,,,,,
+Harley-Quinn,"Harleen Quinzel, Harl, Cupid of Crime, Jane Wisakedjak, Elise Archer, Pumpkin Pooh",bad,80,65,Blue,Harleen Francis Quinzel,female,Blond,5'7 // 170 cm,88,-,-,55,DC Comics,Human,Human,,33,12,140 lb // 63 kg,0,0,0,,,,,,,,
+Red-Robin,"Alvin Draper, Batman, Robin, Timothy Wayne, Time Drake",good,80,32,Blue,Timothy Jackson Drake,male,Black,5'5 // 165 cm,81,-,Gotham City,29,DC Comics,Human,Human,,27,11,125 lb // 56 kg,43.22332,-90.29151,1,place,,,Gotham,WI,Richland County,53540,US
+Red-Arrow,"Arsenal, Speedy",good,80,20,Green,"Roy William Harper, Jr.",male,Red,5'11 // 180 cm,63,-,-,23,DC Comics,Human,Human,,25,16,185 lb // 83 kg,0,0,0,,,,,,,,
+Wildfire,"ERG-1, Atom'x, Randall Burroughs, Jahr-Drake Nigle",good,42,100,-,Drake Burroughs,male,-,- // 0 cm,50,-,-,77,DC Comics,-,Unknown,,23,32,- lb // 0 kg,0,0,0,,,,,,,,
+Cyborg,"Cyberion Technis, Omegadrome, Planet Cyberion",good,64,85,Brown,Victor Stone,male,Black,6'6 // 198 cm,75,Corky,"New York City, New York",71,DC Comics,Cyborg,Robot,,42,53,385 lb // 173 kg,40.68863,-74.018244,1,place,,,New York,NY,New York County,10004,US
+Stargirl,"Star-Spangled Kid, Star, Stars",good,55,90,Blue,Courtney Whitmore,female,Blond,5'5 // 165 cm,63,-,-,85,DC Comics,Human,Human,,25,80,137 lb // 62 kg,0,0,0,,,,,,,,
+Green-Arrow,"The Emerald Archer, Battling Bowman",good,90,28,Green,Oliver Jonas Queen,male,Blond,6'2 // 188 cm,81,"Ollie, Oliver Queen",-,39,DC Comics,Human,Human,,35,12,195 lb // 88 kg,0,0,0,,,,,,,,
+Booster-Gold,"Supernova, Bharjiwarj",good,40,50,Blue,Michael Jon Carter,male,Blond,6'2 // 188 cm,56,-,"Gotham City, 25th Century",100,DC Comics,Human,Human,,53,85,215 lb // 97 kg,40.744622,-73.934502,0.33,place,,,Long Island City,NY,Queens County,11101,US
+Rip-Hunter,"Time Lord, Time Master, Boppy, Dr. Hunter, Mr, Hunter, Carter",good,25,10,Blue,-,male,Blond,- // 0 cm,100,-,-,93,DC Comics,Human,Human,,8,8,- lb // 0 kg,0,0,0,,,,,,,,
+Deadshot,"Man Who Never Misses, Worlds Finest Assassin, Orlando Furioso",bad,80,28,Brown,Floyd Lawton,male,Brown,6'1 // 185 cm,50,-,-,55,DC Comics,Human,Human,,23,10,202 lb // 91 kg,0,0,0,,,,,,,,
+Killer-Frost,-,bad,30,35,Blue,-,female,Blond,- // 0 cm,88,-,-,59,DC Comics,Human,Human,Blue,13,10,- lb // 0 kg,0,0,0,,,,,,,,
+Anti-Monitor,"Monitor, Mobius",bad,90,100,Yellow,-,male,No Hair,200 // 61.0 meters,88,-,Moon of Qward,100,DC Comics,God / Eternal,God,,50,100,- lb // 0 kg,-14.175278,-169.6775,0.8,place,,,Ofu,AS,Manu'a District,96799,US
+Superboy,"Experiment 13; Superman; Project: Superman; Carl Krummett; Project: Lionel Luthor; The Metropolis Kid, Superman",good,60,90,Blue,Kon-El / Conner Kent,male,Black,5'7 // 170 cm,75,-,Project Cadmus cloning facility,91,DC Comics,-,Unknown,,83,95,150 lb // 68 kg,41.873937,-84.160501,0.9,place,,,Cadmus,MI,Lenawee County,49231,US
+Orion,"Son of Darkseid, The Dog of War",good,100,80,Blue,-,male,Strawberry Blond,6'4 // 193 cm,63,-,-,100,DC Comics,New God,God,,25,100,425 lb // 191 kg,0,0,0,,,,,,,,
+Gog,"Nephut-Sha, Hassan Kareem",bad,56,72,-,-,male,-,- // 0 cm,50,-,-,39,DC Comics,-,Unknown,,47,34,- lb // 0 kg,0,0,0,,,,,,,,
+Elongated-Man,Alvin Burgson; Molder,good,42,90,Blue,Ralph Dibny,male,Red,6'1 // 185 cm,38,-,-,41,DC Comics,-,Unknown,,27,10,178 lb // 80 kg,0,0,0,,,,,,,,
+Two-Face,Apollo,bad,28,14,-,Harvey Dent,male,-,6'0 // 183 cm,88,-,-,9,DC Comics,-,Unknown,,12,10,182 lb // 82 kg,0,0,0,,,,,,,,
+Robin-III,"Alvin Draper, Batman, Robin, Timothy Wayne",good,85,28,Blue,Timothy Jackson Drake,male,Black,5'5 // 165 cm,81,Tim,-,29,DC Comics,Human,Human,,27,11,125 lb // 56 kg,0,0,0,,,,,,,,
+Space-Ghost,"Ted Ghostel, Tad Ghostal",good,80,40,-,Thaddeus Bach,male,-,6'2 // 188 cm,38,-,-,95,DC Comics,Human,Human,,33,18,250 lb // 113 kg,0,0,0,,,,,,,,
+Superman,"Clark Joseph Kent, The Man of Steel, the Man of Tomorrow, the Last Son of Krypton, Big Blue, the Metropolis Marvel, the Action Ace",good,85,100,Blue,Clark Kent (Kal-El),male,Black,6'3 // 191 cm,100,"C.K., Clark Kent",Krypton,100,DC Comics,Kryptonian,Alien,,100,100,225 lb // 101 kg,37.3112,-83.33935,1,place,,,Krypton,KY,Perry County,41754,US
+Jessica-Cruz,"Green Lantern, Power Ring",good,55,50,Green,Jessica Viviana Cruz,female,Brown,- // 0 cm,56,-,-,92,DC Comics,Human,Human,,46,90,- lb // 0 kg,0,0,0,,,,,,,,
+Darkseid,Dark God,bad,95,100,Red,Uxas,male,No Hair,8'9 // 267 cm,88,-,-,100,DC Comics,New God,God,Grey,83,100,1815 lb // 817 kg,0,0,0,,,,,,,,
+Professor-Zoom,"Reverse Flash, Black Flash, Adrian Zoom, Mister Zyx",bad,20,20,Blue,Eobard Thawne,male,Strawberry Blond,5'11 // 180 cm,94,-,-,83,DC Comics,Human,Human,,100,10,179 lb // 81 kg,0,0,0,,,,,,,,
+Poison-Ivy,-,bad,40,40,Green,Pamela Lillian Isley,female,Red,5'6 // 168 cm,81,-,"Seattle, Washington",100,DC Comics,Human,Human,Green,21,14,110 lb // 50 kg,47.432251,-121.803388,1,place,,,Seattle,WA,King County,98060,US
+Robin-I,"Renegade, The Target, Freddie Dinardo",good,85,28,Blue,Richard John Grayson,male,Black,5'10 // 178 cm,88,-,-,32,DC Comics,Human,Human,,27,11,175 lb // 79 kg,0,0,0,,,,,,,,
+Azrael,Bat-Devil; Bat-Ghost,good,80,20,Brown,Michael Washington Lane,male,Black,- // 0 cm,63,-,Gotham City,35,DC Comics,Human,Human,,17,18,- lb // 0 kg,43.22332,-90.29151,1,place,,,Gotham,WI,Richland County,53540,US
+Mister-Zsasz,Mr Zsasz,bad,85,28,Blue,Victor Zsasz,male,Blond,- // 0 cm,88,-,-,18,DC Comics,Human,Human,,33,22,- lb // 0 kg,0,0,0,,,,,,,,
+Oracle,"Batgirl, Babs; Barbie Doll; O; The Masked Maiden; the Dark Knight Damsel",good,76,28,Blue,Barbara Gordon,female,Red,5'10 // 178 cm,75,-,-,19,DC Comics,Human,Human,,23,11,132 lb // 59 kg,0,0,0,,,,,,,,
+Alan-Scott,"Green Lantern, White King, Sentinal",good,32,90,Blue,Alan Ladd Wellington Scott,male,Blond,5'11 // 180 cm,63,-,Gotham City,100,DC Comics,-,Unknown,,23,80,201 lb // 90 kg,43.22332,-90.29151,1,place,,,Gotham,WI,Richland County,53540,US
+Robin-V,"Batman, Damian al Ghul, Ibn al Xu'ffasch, Redbird",good,65,16,Blue,Damian Wayne,male,Black,4'6 // 137 cm,69,-,-,29,DC Comics,Human,Human,,33,8,84 lb // 38 kg,0,0,0,,,,,,,,
+Brainiac,Milton Fine,bad,75,90,Green,Vril Dox,male,No Hair,6'6 // 198 cm,100,-,-,60,DC Comics,Android,Alien,Green,63,95,300 lb // 135 kg,0,0,0,,,,,,,,
+Vibe,-,good,30,30,Brown,Francisco Paco Ramon,male,Black,5'10 // 178 cm,50,-,-,99,DC Comics,Human,Human,,17,10,157 lb // 71 kg,0,0,0,,,,,,,,
+Starfire,"Princess Koriand'r, Kory Anders, Nova",good,70,85,Green,Koriand'r,female,Auburn,6'4 // 193 cm,50,-,Tamaran,59,DC Comics,Tamaranean,Alien,Orange,33,80,158 lb // 71 kg,0,0,0,,,,,,,,
+Wonder-Girl,"Cassandra Sandsmark, Cassie, Helen Troy, Wonder Woman, Cassie Sandsmark",good,60,80,Blue,Cassandra Elizabeth Sandsmark,female,Blond,5'5 // 165 cm,75,Cassie,-,39,DC Comics,Demi-God,God,,25,90,114 lb // 51 kg,0,0,0,,,,,,,,
+Bane,-,bad,95,56,-,-,male,-,6'8 // 203 cm,88,-,-,51,DC Comics,Human,Human,,23,38,400 lb // 180 kg,0,0,0,,,,,,,,
+Magog,-,good,72,64,Blue,David Reid,male,Blond,- // 0 cm,50,-,-,66,DC Comics,-,Unknown,,23,48,- lb // 0 kg,0,0,0,,,,,,,,
+Kevin-11,"Kevin 11,000, Curtis, Osmosian, Kev, Kevin Ethan, Levin, Ultimate Kevin, Doofus, An Empty Shell, Kevin E. Levin",good,40,14,-,Kevin Ethan Levin,male,Black,- // 0 cm,25,-,-,100,DC Comics,Human,Human,,12,7,- lb // 0 kg,0,0,0,,,,,,,,
+Indigo,Indigo-1,neutral,50,50,-,-,female,Purple,- // 0 cm,75,-,-,100,DC Comics,Alien,Alien,,50,63,- lb // 0 kg,0,0,0,,,,,,,,
+Aqualad,-,good,60,75,Blue,Garth,male,Black,5'10 // 178 cm,63,-,"Poseidonis, Atlantis",84,DC Comics,Atlantean,Alien,,42,44,235 lb // 106 kg,33.844371,-84.47405,0.67,place,,,Atlanta,GA,Fulton County,30301,US
+White-Canary,"Silk Sister, Sara Lance",bad,90,15,Brown,-,female,Black,- // 0 cm,63,-,-,49,DC Comics,Human,Human,,33,7,- lb // 0 kg,0,0,0,,,,,,,,
+Amazo,"Professor Ivos Amazing Android, Timazo, Humazo, Hourmazo",bad,100,100,Red,-,male,-,8'5 // 257 cm,63,-,-,100,DC Comics,Robot,Robot,,83,100,385 lb // 173 kg,0,0,0,,,,,,,,
+Metallo,-,bad,64,95,Green,John Corben,male,Brown,6'5 // 196 cm,75,-,-,86,DC Comics,Cyborg,Robot,,23,53,200 lb // 90 kg,0,0,0,,,,,,,,
+Red-Hood,"Robin, Red Robin, Batman, Nightwing, Arkham Knight",neutral,95,28,Blue,Jason Peter Todd,male,Black,6'0 // 183 cm,75,Rojo,-,35,DC Comics,Human,Human,,23,12,180 lb // 81 kg,0,0,0,,,,,,,,
+Isis,-,good,56,46,-,Adrianna Tomaz,female,-,- // 0 cm,75,-,-,50,DC Comics,-,Unknown,,75,48,- lb // 0 kg,0,0,0,,,,,,,,
+Aquaman,"Dweller in the Depths, Swimmer, Waterbearer, Mental Man, Aquaboy, Water Wraith",good,80,80,Blue,Orin,male,Blond,6'1 // 185 cm,69,-,Atlantis,100,DC Comics,Atlantean,Alien,,79,85,325 lb // 146 kg,33.844371,-84.47405,0.67,place,,,Atlanta,GA,Fulton County,30301,US
+Steppenwolf,Steppenwulf,bad,100,100,Red,-,male,Black,6'0 // 183 cm,94,-,-,100,DC Comics,New God,God,White,83,100,203 lb // 91 kg,0,0,0,,,,,,,,
+Rorschach,-,good,80,20,Blue,Walter Joseph Kovacs,male,Red,5'6 // 168 cm,75,-,-,23,DC Comics,Human,Human,,29,10,140 lb // 63 kg,0,0,0,,,,,,,,
+Offspring,"Ernie McDunnagh, Plastic Lad",good,56,99,-,Luke O'Brian,male,-,- // 0 cm,50,Loogie,-,100,DC Comics,-,Unknown,,35,10,- lb // 0 kg,0,0,0,,,,,,,,
+Flash-I,"Jay Garrick, Siegfreid the Speedster",good,32,50,Blue,Jason Peter Garrick,male,Brown / White,5'11 // 180 cm,63,-,"Hibbardsville, Kansas",68,DC Comics,Human,Human,,100,10,179 lb // 81 kg,0,0,0,,,,,,,,
+Riddler,"E. Nigma, Edward E. Nigma",bad,14,14,-,Edward Nigma,male,-,- // 0 cm,100,-,-,10,DC Comics,-,Unknown,,12,10,- lb // 0 kg,0,0,0,,,,,,,,
+Cyborg-Superman,"Grandmaster of the Manhunters, Herald of the Anti-Monitor, Alpha-Prime of the Alpha Lanterns",bad,80,100,Blue,Henry Henshaw,male,Black,- // 0 cm,75,Hank,-,100,DC Comics,Cyborg,Robot,,92,93,- lb // 0 kg,0,0,0,,,,,,,,
+Clock-King,Tempus Fugit,bad,40,10,Blue,William Tockman,male,Black,5'10 // 178 cm,75,-,-,7,DC Comics,Human,Human,,17,10,173 lb // 78 kg,0,0,0,,,,,,,,
+Rick-Flag,-,bad,95,28,Blue,Richard Rogers Flag,male,Brown,6'1 // 185 cm,88,Rick,-,19,DC Comics,-,Unknown,,23,11,189 lb // 85 kg,0,0,0,,,,,,,,
+Deathstroke,"Slade Wilson, Deathstroke the Terminator, Batman",neutral,90,100,Blue,Slade Joseph Wilson,male,White,6'4 // 193 cm,75,-,-,47,DC Comics,Human,Human,,35,30,225 lb // 101 kg,0,0,0,,,,,,,,
+Static,"Sparky, Virg, V, V-Man",good,40,50,Brown,Virgil Ovid Hawkins,male,Black,5'7 // 170 cm,69,-,"Paris Island, Dakota City",90,DC Comics,Mutant,Mutant,,42,8,140 lb // 63 kg,40.636062,-74.123308,1,street_center,,Paris Ct,Staten Island,NY,Richmond County,10310,US
+Metron,-,good,28,56,Blue,Metron,male,Black,6'1 // 185 cm,88,-,-,100,DC Comics,-,Unknown,,47,10,190 lb // 86 kg,0,0,0,,,,,,,,
+Big-Barda,"Barda, the Strongest Woman in the World",bad,100,100,Blue,Barda Free,female,Black,6'2 // 188 cm,88,-,-,96,DC Comics,New God,God,,79,100,300 lb // 135 kg,0,0,0,,,,,,,,
+Wonder-Woman,"Princess Diana, Princess of the Amazons, Goddess of Truth,  Wondy, Wonder Girl, The Amazon Princess",good,100,100,Blue,Diana of Themyscira,female,Black,6'0 // 183 cm,88,-,Themyscira,100,DC Comics,Amazon,Inhuman,,79,100,165 lb // 74 kg,0,0,0,,,,,,,,
+Black-Adam,"Hassan Bari, Theo Adam, Mighty Adam, Khem-Adam",bad,56,100,Brown,Teth-Adam,male,Black,6'3 // 191 cm,88,-,"Kahndaq, Egypt",100,DC Comics,-,Unknown,,92,100,250 lb // 113 kg,40.680096,-75.529907,0.8,place,,,Egypt,PA,Lehigh County,18052,US
+Abin-Sur,Lagzia,good,65,64,Blue,-,male,No Hair,6'1 // 185 cm,50,-,Ungara,84,DC Comics,Ungaran,Robot,Red,53,90,200 lb // 90 kg,0,0,0,,,,,,,,
+Light-Lass,-,good,42,28,Blue,Ayla Ranzz,female,Red,5'5 // 165 cm,38,-,-,65,DC Comics,-,Unknown,,35,10,120 lb // 54 kg,0,0,0,,,,,,,,
+Enchantress,"Anita Soulfeeda, Soulsinger",good,40,60,Blue,-,female,Blond,5'6 // 168 cm,63,-,-,100,DC Comics,Human,Human,,25,14,126 lb // 57 kg,0,0,0,,,,,,,,
+Guy-Gardner,"Green Lantern, Red Lantern, Warrior",good,64,64,Blue,Guy Darrin Gardner,male,Red,6'2 // 188 cm,38,-,"Baltimore, Maryland",100,DC Comics,Human-Vuldarian,Human,,53,90,210 lb // 95 kg,39.296536,-76.623489,1,place,,,Baltimore,MD,Baltimore city,21201,US
+John-Stewart,Green Lantern,good,54,64,Green,John Stewart,male,Black,6'1 // 185 cm,50,-,-,94,DC Comics,-,Unknown,,27,80,201 lb // 90 kg,0,0,0,,,,,,,,
+Triplicate-Girl,"Duo Damsel, Una, Triad",good,42,42,Purple,Luornu Durgo,female,Brown,5'6 // 168 cm,63,-,-,44,DC Comics,-,Unknown,,23,10,130 lb // 59 kg,0,0,0,,,,,,,,
+Kilowog,"Kilo Wog, Green Lantern 674.1, Dark Lantern, The Green Lantern drill sergeant, ""Poozer"", Lantern",good,80,42,Red,-,male,No Hair,7'8 // 234 cm,81,-,Bolovax Vik,100,DC Comics,Bolovaxian,Robot,Pink,53,90,720 lb // 324 kg,0,0,0,,,,,,,,
+The-Comedian,Eddie Blake,neutral,80,10,Brown,Edward Morgen Blake,male,Black,6'2 // 188 cm,63,-,-,12,DC Comics,Human,Human,,17,14,225 lb // 101 kg,0,0,0,,,,,,,,
+Animal-Man,The Human Zoo; A-Man; The Man with Animal Powers,good,80,85,Blue,Bernhard Baker,male,Blond,6'0 // 183 cm,56,Buddy,-,73,DC Comics,Human,Human,,47,48,185 lb // 83 kg,0,0,0,,,,,,,,
+Warp,-,bad,50,28,Brown,Emil LaSalle,male,Black,5'8 // 173 cm,38,-,-,85,DC Comics,-,Unknown,,23,10,148 lb // 67 kg,0,0,0,,,,,,,,
+Huntress,"Batgirl, Sicilian, Mafia Princess",good,95,28,Blue,Helena Rosa Bertinelli,female,Black,5'11 // 180 cm,69,-,-,34,DC Comics,-,Unknown,,23,10,130 lb // 59 kg,0,0,0,,,,,,,,
+Bizarro-Girl,"Bizarro Supergirl, Bizarrogirl, Bizarro Girl",neutral,75,100,Red,-,female,Blond,5'7 // 170 cm,50,-,-,100,DC Comics,Bizarro,Robot,,100,100,- lb // 0 kg,0,0,0,,,,,,,,
+Batgirl-IV,"Kasumi, various mundane persona,",good,100,56,Green,Cassandra Cain,female,Black,5'5 // 165 cm,69,-,League of Assassins (exact base is unknown),46,DC Comics,Human,Human,,27,12,115 lb // 52 kg,-14.175278,-169.6775,0.8,place,,,Ofu,AS,Manu'a District,96799,US
+Penguin,-,bad,45,28,Blue,Oswald Chesterfield Cobblepot,male,Black,5'2 // 157 cm,75,-,-,30,DC Comics,Human,Human,,12,10,175 lb // 79 kg,0,0,0,,,,,,,,
+Firestorm,"Ronnie, Roy, Ronald Rockwell, Flamehead",good,40,80,Blue,Ronald Raymond,male,Auburn,6'2 // 188 cm,38,-,-,100,DC Comics,Human,Human,,58,80,202 lb // 91 kg,0,0,0,,,,,,,,
+Match,"Superboy, Superman",bad,70,85,Black,Kent Connor,male,Black,- // 0 cm,75,-,-,97,DC Comics,-,Unknown,,83,95,- lb // 0 kg,0,0,0,,,,,,,,
+Black-Lightning,-,good,75,28,Brown,Jefferson Pierce,male,No Hair,6'1 // 185 cm,50,-,-,70,DC Comics,-,Unknown,,53,11,200 lb // 90 kg,0,0,0,,,,,,,,
+Gorilla-Grodd,"William Dawson, King Grodd, Gorilla Grodd, Grodd-Son",bad,65,70,Yellow,Grodd,male,Black,6'6 // 198 cm,81,-,-,100,DC Comics,Gorilla,Alien,,33,53,600 lb // 270 kg,0,0,0,,,,,,,,
+Nightwing,"Freddie Dinardo, Freddy Loyd, The Target, Renegade, The Worlds Greatest Acrobat, The Aerial Avenger, Pixie Boots, The Boy / Teen Wonder, The Worlds Greatest Detective, The Caped Crusader",good,100,28,Blue,Richard John Grayson,male,Black,5'10 // 178 cm,88,Dick,Gotham City,36,DC Comics,Human,Human,,33,11,175 lb // 79 kg,43.22332,-90.29151,1,place,,,Gotham,WI,Richland County,53540,US
+Micro-Lad,"Colossal Boy (mostly known as Colossal Boy, although he dislikes that name himself)",good,32,28,Grey,Gim Allon,male,Brown,6' // 183 cm,38,-,-,44,DC Comics,-,Unknown,,27,28,170 lb // 77 kg,0,0,0,,,,,,,,
+Captain-Cold,"Citizen Cold, Kid Kold, Len Snart, Leonard Snart, Leonards Wynters, The Man Who Mastered Absolute Zero",neutral,20,20,Brown,Leonard Snart,male,Brown,- // 0 cm,50,-,-,28,DC Comics,Human,Human,,17,10,- lb // 0 kg,0,0,0,,,,,,,,
+Impulse,"Flash IV, Kid Flash II",good,60,60,Yellow,Bartholomew Allen II,male,Auburn,5'7 // 170 cm,50,Bart Allen,-,74,DC Comics,Human,Human,,100,10,145 lb // 65 kg,0,0,0,,,,,,,,
+Mister-Mxyzptlk,-,bad,28,14,-,Mr. Mxyzptlk,male,-,- // 0 cm,113,Mxy,-,100,DC Comics,-,Unknown,,12,10,- lb // 0 kg,0,0,0,,,,,,,,
+Hawk,"Monarch, Extant",good,42,95,Red,Henry Hall,male,Brown,6'1 // 185 cm,38,-,-,43,DC Comics,-,Unknown,,35,38,197 lb // 89 kg,0,0,0,,,,,,,,
+Krypto,-,good,40,90,Blue,Krypto the Superdog,male,White,0'25 // 64 cm,9,-,-,78,DC Comics,Kryptonian,Alien,,100,80,40 lb // 18 kg,0,0,0,,,,,,,,
+Robin-VI,-,neutral,70,20,Green,Carrie Kelley,female,Red,- // 0 cm,50,-,Gotham City,17,DC Comics,Human,Human,,25,8,- lb // 0 kg,43.22332,-90.29151,1,place,,,Gotham,WI,Richland County,53540,US
+Simon-Baz,"Green Lantern, White Lantern",good,60,55,Bown,-,male,Black,- // 0 cm,56,-,"Dearborn, Michigan",100,DC Comics,Human,Human,,42,90,- lb // 0 kg,42.310037,-83.177625,1,place,,,Dearborn,MI,Wayne County,48120,US
+Bushido,-,good,70,10,-,Ryuko Orsono,male,-,- // 0 cm,38,-,-,19,DC Comics,Human,Human,,8,10,- lb // 0 kg,0,0,0,,,,,,,,
+Adam-Strange,"Warrior of Two Worlds, Savior of Rann",good,50,40,Blue,Adam Strange,male,Blond,6'1 // 185 cm,69,-,"Chicago, Illinois",37,DC Comics,Human,Human,,33,10,195 lb // 88 kg,41.88531,-87.62213,1,place,,,Chicago,IL,Cook County,60601,US
+Hawkgirl,"Chay-Ara; Sheila Carr; Lady Celia Penbrook, Kate Manser; Shiera Sanders",good,72,99,Green,Kendra Saunders,female,Red,5'9 // 175 cm,50,-,-,86,DC Comics,-,Unknown,,53,28,135 lb // 61 kg,0,0,0,,,,,,,,
+John-Constantine,Hellblazer,good,65,40,Blue,John Constantine,male,Blond,6'0 // 183 cm,63,-,-,49,DC Comics,Human,Human,,8,10,- lb // 0 kg,0,0,0,,,,,,,,
+Phantom-Girl,-,good,42,28,Blue,Tinya Wazzo,female,Black,5'6 // 168 cm,38,-,-,53,DC Comics,-,Unknown,,23,10,120 lb // 54 kg,0,0,0,,,,,,,,
+Giganta,-,bad,42,85,Green,Doris Zuel,female,Red,205 // 62.5 meters,81,-,-,32,DC Comics,-,Unknown,,23,89,1400 lb // 630 kg,0,0,0,,,,,,,,
+Beast-Boy,"Changeling, Beast-Brat, Green Jeans, Salad-head, Sprout, Tork, Craig Logan",good,40,70,Green,Garfield Mark Logan,male,Green,5'8 // 173 cm,50,-,-,79,DC Comics,Human,Human,Green,50,28,150 lb // 68 kg,0,0,0,,,,,,,,
+Bumblebee,-,good,35,10,Brown,Karen Beecher-Duncan,female,Black,5'7 // 170 cm,63,-,-,45,DC Comics,Human,Human,,25,28,130 lb // 59 kg,0,0,0,,,,,,,,
+Misfit,Batgirl,good,42,80,Blue,Charlotte Gage-Radcliffe,female,Red,- // 0 cm,63,-,-,91,DC Comics,-,Unknown,,23,32,- lb // 0 kg,0,0,0,,,,,,,,
+Brainiac-5,-,good,32,28,Green,Querl Dox,male,Blond,5'7 // 170 cm,100,-,-,60,DC Comics,-,Unknown,,23,10,135 lb // 61 kg,0,0,0,,,,,,,,
+Lobo,"The Main Man, The 'Bo, Master Frag, Mister Machete, Popebo; He-Who-Devours-Your-Entrails-And-Thoroughly-Enjoys-It",bad,85,100,Red,Lobo,male,Black,7'6 // 229 cm,88,-,-,100,DC Comics,-,Unknown,,35,83,640 lb // 288 kg,0,0,0,,,,,,,,
+Ra's-Al-Ghul,Demon's Head,bad,100,42,Green,Ra's Al Ghul,male,Grey,6'4 // 193 cm,100,-,Egypt,27,DC Comics,Human,Human,,32,28,215 lb // 97 kg,40.680096,-75.529907,0.8,place,,,Egypt,PA,Lehigh County,18052,US
+Mera,"Queen of Atlantis, Aquawoman, Aquagirl, Water-Woman",good,80,60,Blue,-,female,Red,5'9 // 175 cm,56,-,-,92,DC Comics,Atlantean,Alien,,79,62,160 lb // 72 kg,0,0,0,,,,,,,,
+Power-Girl,"Karen Starr, Nightwing",good,75,100,blue,Kara Zor-L,female,blond,5'11 // 180 cm,94,-,-,100,DC Comics,Kryptonian,Alien,,100,100,180 lb // 81 kg,0,0,0,,,,,,,,
+Mister-Freeze,"Mister Zero, Doctor Zero, Doctor Schimmell",bad,28,70,-,Victor Fries,male,-,6'0 // 183 cm,75,-,-,37,DC Comics,Human,Human,,12,32,190 lb // 86 kg,0,0,0,,,,,,,,
+Batgirl,"Oracle, Bluebelle",good,90,40,Green,Barbara Gordon,female,Red,5'7 // 170 cm,88,-,-,34,DC Comics,Human,Human,,33,11,126 lb // 57 kg,0,0,0,,,,,,,,
+Flash-III,"The Fastest Man Alive, The Scarlet Speedster; formerly, Kid Flash I",good,32,60,-,Wallace Rudolph West,male,-,6'0 // 183 cm,63,Wally West,"Blue Valley, Nebraska",100,DC Comics,Human,Human,,100,10,190 lb // 86 kg,41.342714,-96.344273,1,place,,,Valley,NE,Douglas County,68064,US
+Vixen,-,good,25,50,Amber,Mari Jiwe McCabe,female,Black,5'9 // 175 cm,50,-,Zambesi,62,DC Comics,Human,Human,,50,38,140 lb // 63 kg,0,0,0,,,,,,,,
+Scarecrow,-,bad,50,14,Blue,Jonathan Crane,male,Brown,6'0 // 183 cm,81,-,-,48,DC Comics,Human,Human,,12,10,140 lb // 63 kg,0,0,0,,,,,,,,
+Zatanna,-,good,56,28,Blue,Zatanna Zatara,female,Black,5'7 // 170 cm,81,-,-,100,DC Comics,Human,Human,,23,10,127 lb // 57 kg,0,0,0,,,,,,,,
+Swamp-Thing,"Green Man, Swampy, the Weed, Le Bon Gumbo, Smalsh-Yegger (on Rann)",bad,55,100,Red,Alec Holland,male,No Hair,- // 0 cm,88,-,-,100,DC Comics,God / Eternal,God,Green,25,95,- lb // 0 kg,0,0,0,,,,,,,,
+Alfred-Pennyworth,Alfred Beagle,good,55,10,Blue,Alfred Thaddeus Crane Pennyworth,male,Black,5'10 // 178 cm,63,-,-,7,DC Comics,Human,Human,,17,10,160 lb // 72 kg,0,0,0,,,,,,,,
