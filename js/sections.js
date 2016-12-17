@@ -14,6 +14,27 @@ var scrollVis = function() {
       width = 800 - margin.left - margin.right;
 
 
+      var tip = d3.tip()
+      .attr('class', 'd3-tip')
+      .offset([-10, 0])
+      .direction('se')
+      .html(function(d) {
+          return "<strong style='color: Red;font-size:15pt'>" + d.HeroName + "</strong>" +
+              "<br>" +
+              // '<img src="https://i.annihil.us/u/prod/marvel/i/mg/2/00/53710b14a320b.png" alt="Mountain View" style="width:150px;height:150px;">'+
+              '<img src="http://www.superherodb.com/pictures/portraits/' + d.HeroName.toLowerCase() + '.jpg" alt="'+ d.HeroName + '" style="width:120px;height:140px;">'+
+              "<br><span style='color:#40bf80;font-size:10pt' 'font-weight:bolder'> Full Name:  </span>" +
+              "<span style='color:black;font-size:10pt' 'font-weight:bolder'> " + d.FullName +
+              "<br><span style='color:#40bf80;font-size:10pt' 'font-weight:bolder'> Origin:  </span>" +
+              "<span style='color:black;font-size:10pt' 'font-weight:bolder'> " + d.Placeofbirth +
+              "<br><span style='color:#40bf80;font-size:10pt' 'font-weight:bolder'> Type:  </span>" +
+              "<span style='color:black;font-size:10pt' 'font-weight:bolder'> " + d.Category + "</span>"+
+              "<br><span style='color:#40bf80;font-size:10pt' 'font-weight:bolder'> Power:  </span>" +
+              "<span style='color:black;font-size:10pt' 'font-weight:bolder'> " + d.Power + "</span>"
+              // "http://i.annihil.us/u/prod/marvel/i/mg/2/00/53710b14a320b.png"
+      })
+
+
   // Let's create some scales
   var xPositionScale = d3.scaleLinear()
       .domain([0,1000])
@@ -156,6 +177,9 @@ var scrollVis = function() {
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
       // preprocess the data - and then call setupVis
+
+      svg.call(tip);
+
       setupVis(rawData);
 
       setupSections();
@@ -285,6 +309,18 @@ var scrollVis = function() {
     .attr("fill", function(d) {
       return genderscale(d.Gender)
     })
+    .attr("cursor", "pointer")
+    .on('mouseover', function(d, i) {
+        var element = d3.select(this)
+            tip.show(d)
+            element.attr("opacity",0.3)
+      })
+      .on('mouseout', function(d, i) {
+        
+        var element = d3.select(this)
+            tip.hide(d)
+            element.attr("opacity",0.9)
+            });
 
 
     console.log("page1!!")
